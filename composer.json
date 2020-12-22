@@ -1,5 +1,5 @@
 {
-  "name": "northwestern-sysdev/unoconv",
+  "name": "casperlaitw/unoconv",
   "license": "MIT",
   "type": "library",
   "description": "Unoconv wrapper for PHP, updated for Symfony 4",
